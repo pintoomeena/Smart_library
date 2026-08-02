@@ -57,11 +57,7 @@ Create a `.env` file inside the backend folder and configure your MongoDB connec
 
 ---
 
-## 📸 Screenshots
 
-> Add your own screenshots here after running the project.
-
----
 
 ## 📌 Future Improvements
 
